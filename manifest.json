@@ -1,0 +1,10 @@
+{
+  "name": "InteractableHighlight",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/hugo-cacciatori/ror2_interactable_highlight",
+  "description": "Chests, shops, shrines and every other interactable glow so you can spot them from afar. Walls hide the glow; the vanilla selection outline is unchanged. Client-side, configurable.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.2121",
+    "RiskofThunder-RoR2BepInExPack-1.43.0"
+  ]
+}
